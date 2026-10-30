@@ -1,0 +1,7 @@
+{
+  "name": "contentscale-research",
+  "owner": { "name": "ContentSCALE" },
+  "plugins": [
+    { "name": "contentscale-research", "source": "./", "description": "ContentSCALE content research skill" }
+  ]
+}
